@@ -12,7 +12,7 @@ module.exports = function(saveProducts, getProducts) {
   });
 
   // Ajoute les couleurs dominantes a la liste de produits et renvoie cette liste
-  router.get('/dominantcolor', async function(req, res) {
+  router.get('/dominantcolors', async function(req, res) {
     const products = getProducts();
 
     getDominantColors(products, res);
