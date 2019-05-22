@@ -7,16 +7,16 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(express.static(path.join(__dirname, 'public')));
 
-let productList;
+let products;
 
-function saveProductList(newProductList) {
-  order = newProductList;
+function saveProducts(newProducts) {
+  products = newProducts;
 }
 
-function getProductList() {
-  return productList;
+function getProducts() {
+  return products;
 }
 
-app.use('/', indexRouter(saveProductList, getProductList));
+app.use('/', indexRouter(saveProducts, getProducts));
 
 module.exports = app;

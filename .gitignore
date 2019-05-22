@@ -45,3 +45,5 @@ pids
 !.vscode/launch.json
 !.vscode/extensions.json
 
+api_key.json
+service_account_key.json
