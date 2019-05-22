@@ -2,20 +2,26 @@ module.exports = function(saveProducts, getProducts) {
   const express = require('express');
   const csvToJson = require('convert-csv-to-json');
   const getDominantColors = require('./getDominantColors');
+  const getRecommendations = require('./getRecommendations');
 
   const router = express.Router();
 
-  // Creation d'une liste de produits
+  // Création d'une liste de produits
   router.post('/products', async function(req, res) {
     saveProducts(csvToJson.getJsonFromCsv(req.query.csv));
     res.status(200).send('Product list received');
   });
 
-  // Ajoute les couleurs dominantes a la liste de produits et renvoie cette liste
+  // Ajoute les couleurs dominantes à la liste de produits et renvoie cette liste
   router.get('/dominantcolors', async function(req, res) {
     const products = getProducts();
 
     getDominantColors(products, res);
+  });
+
+  // Renvoie les 5 produits dont la couleur dominante est la plus proche de celle du produit dont l'ID est passé en paramètre
+  router.get('/recommendations', async function(req, res) {
+    getRecommendations(req, res);
   });
 
   return router;

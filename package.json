@@ -40,6 +40,7 @@
     "http-errors": "~1.6.2",
     "joi": "^14.3.1",
     "node-fetch": "^2.6.0",
+    "rgb-hex": "^3.0.0",
     "winston": "^3.2.1"
   },
   "devDependencies": {

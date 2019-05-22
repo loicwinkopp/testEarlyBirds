@@ -1,752 +1,752 @@
 [
-  {
-      "id": "L1212-00-001",
-      "title": "Polo Lacoste L.12.12 uni",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1212_001_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-uni/L1212-00.html?dwvar_L1212-00_color=001",
-      "dominantColor": {
-          "red": 233,
-          "green": 233,
-          "blue": 233,
-          "alpha": null
-      }
-  },
-  {
-      "id": "L1212-00-031",
-      "title": "Polo Lacoste L.12.12 uni",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1212_031_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-uni/L1212-00.html?dwvar_L1212-00_color=031",
-      "dominantColor": {
-          "red": 27,
-          "green": 27,
-          "blue": 29,
-          "alpha": null
-      }
-  },
-  {
-      "id": "L1212-00-132",
-      "title": "Polo Lacoste L.12.12 uni",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1212_132_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-uni/L1212-00.html?dwvar_L1212-00_color=132",
-      "dominantColor": {
-          "red": 31,
-          "green": 62,
-          "blue": 47,
-          "alpha": null
-      }
-  },
-  {
-      "id": "L1212-00-166",
-      "title": "Polo Lacoste L.12.12 uni",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1212_166_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-uni/L1212-00.html?dwvar_L1212-00_color=166",
-      "dominantColor": {
-          "red": 21,
-          "green": 24,
-          "blue": 45,
-          "alpha": null
-      }
-  },
-  {
-      "id": "L1212-00-240",
-      "title": "Polo Lacoste L.12.12 uni",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1212_240_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-uni/L1212-00.html?dwvar_L1212-00_color=240",
-      "dominantColor": {
-          "red": 196,
-          "green": 2,
-          "blue": 29,
-          "alpha": null
-      }
-  },
-  {
-      "id": "L1212-00-476",
-      "title": "Polo Lacoste L.12.12 uni",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1212_476_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-uni/L1212-00.html?dwvar_L1212-00_color=476",
-      "dominantColor": {
-          "red": 122,
-          "green": 1,
-          "blue": 19,
-          "alpha": null
-      }
-  },
-  {
-      "id": "L1212-00-KC8",
-      "title": "Polo Lacoste L.12.12 uni",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1212_KC8_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-uni/L1212-00.html?dwvar_L1212-00_color=KC8",
-      "dominantColor": {
-          "red": 151,
-          "green": 149,
-          "blue": 150,
-          "alpha": null
-      }
-  },
-  {
-      "id": "L1212-00-T01",
-      "title": "Polo Lacoste L.12.12 uni",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1212_T01_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-uni/L1212-00.html?dwvar_L1212-00_color=T01",
-      "dominantColor": {
-          "red": 209,
-          "green": 225,
-          "blue": 236,
-          "alpha": null
-      }
-  },
-  {
-      "id": "L1212-00-T03",
-      "title": "Polo Lacoste L.12.12 uni",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1212_T03_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-uni/L1212-00.html?dwvar_L1212-00_color=T03",
-      "dominantColor": {
-          "red": 253,
-          "green": 239,
-          "blue": 237,
-          "alpha": null
-      }
-  },
-  {
-      "id": "L1212-EC-000",
-      "title": "Polo personnalisé L.12.12 Lacoste",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1212_000_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/bestsellers/polo-personnalise-l.12.12-lacoste/L1212-EC.html?dwvar_L1212-EC_color=000",
-      "dominantColor": {
-          "red": 233,
-          "green": 233,
-          "blue": 233,
-          "alpha": null
-      }
-  },
-  {
-      "id": "L1230-00-001",
-      "title": "Polo regular fit Tennis Lacoste SPORT en maille ultra-légère ",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1230_001_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/sport/homme/polos/polo-regular-fit-tennis-lacoste-sport-en-maille-ultra-legere-/L1230-00.html?dwvar_L1230-00_color=001",
-      "dominantColor": {
-          "red": 229,
-          "green": 230,
-          "blue": 232,
-          "alpha": null
-      }
-  },
-  {
-      "id": "L1230-00-031",
-      "title": "Polo regular fit Tennis Lacoste SPORT en maille ultra-légère ",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1230_031_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/sport/homme/polos/polo-regular-fit-tennis-lacoste-sport-en-maille-ultra-legere-/L1230-00.html?dwvar_L1230-00_color=031",
-      "dominantColor": {
-          "red": 25,
-          "green": 24,
-          "blue": 24,
-          "alpha": null
-      }
-  },
-  {
-      "id": "L1230-00-166",
-      "title": "Polo regular fit Tennis Lacoste SPORT en maille ultra-légère ",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1230_166_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/sport/homme/polos/polo-regular-fit-tennis-lacoste-sport-en-maille-ultra-legere-/L1230-00.html?dwvar_L1230-00_color=166",
-      "dominantColor": {
-          "red": 38,
-          "green": 39,
-          "blue": 56,
-          "alpha": null
-      }
-  },
-  {
-      "id": "L1264-00-CCA",
-      "title": "Polo Lacoste L.12.12 chiné",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1264_CCA_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-chine/L1264-00.html?dwvar_L1264-00_color=CCA",
-      "dominantColor": {
-          "red": 199,
-          "green": 202,
-          "blue": 206,
-          "alpha": null
-      }
-  },
-  {
-      "id": "L1312-00-001",
-      "title": "Polo Lacoste L.12.12 à manches longues",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches longues",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1312_001_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-a-manches-longues/L1312-00.html?dwvar_L1312-00_color=001",
-      "dominantColor": {
-          "red": 231,
-          "green": 230,
-          "blue": 230,
-          "alpha": null
-      }
-  },
-  {
-      "id": "L1312-00-031",
-      "title": "Polo Lacoste L.12.12 à manches longues",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches longues",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1312_031_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-a-manches-longues/L1312-00.html?dwvar_L1312-00_color=031",
-      "dominantColor": {
-          "red": 22,
-          "green": 21,
-          "blue": 19,
-          "alpha": null
-      }
-  },
-  {
-      "id": "L1312-00-166",
-      "title": "Polo Lacoste L.12.12 à manches longues",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches longues",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1312_166_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-a-manches-longues/L1312-00.html?dwvar_L1312-00_color=166",
-      "dominantColor": {
-          "red": 28,
-          "green": 29,
-          "blue": 50,
-          "alpha": null
-      }
-  },
-  {
-      "id": "L1312-00-240",
-      "title": "Polo Lacoste L.12.12 à manches longues",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches longues",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1312_240_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-a-manches-longues/L1312-00.html?dwvar_L1312-00_color=240",
-      "dominantColor": {
-          "red": 183,
-          "green": 2,
-          "blue": 30,
-          "alpha": null
-      }
-  },
-  {
-      "id": "L1312-00-476",
-      "title": "Polo Lacoste L.12.12 à manches longues",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches longues",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1312_476_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-a-manches-longues/L1312-00.html?dwvar_L1312-00_color=476",
-      "dominantColor": {
-          "red": 120,
-          "green": 1,
-          "blue": 17,
-          "alpha": null
-      }
-  },
-  {
-      "id": "PH3468-00-001",
-      "title": "Polo Lacoste regular fit uni avec poche",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH3468_001_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-regular-fit-uni-avec-poche/PH3468-00.html?dwvar_PH3468-00_color=001",
-      "dominantColor": {
-          "red": 243,
-          "green": 243,
-          "blue": 243,
-          "alpha": null
-      }
-  },
-  {
-      "id": "PH3468-00-031",
-      "title": "Polo Lacoste regular fit uni avec poche",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH3468_031_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-regular-fit-uni-avec-poche/PH3468-00.html?dwvar_PH3468-00_color=031",
-      "dominantColor": {
-          "red": 42,
-          "green": 40,
-          "blue": 36,
-          "alpha": null
-      }
-  },
-  {
-      "id": "PH3468-00-166",
-      "title": "Polo Lacoste regular fit uni avec poche",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH3468_166_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-regular-fit-uni-avec-poche/PH3468-00.html?dwvar_PH3468-00_color=166",
-      "dominantColor": {
-          "red": 46,
-          "green": 43,
-          "blue": 56,
-          "alpha": null
-      }
-  },
-  {
-      "id": "PH3468-00-476",
-      "title": "Polo Lacoste regular fit uni avec poche",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH3468_476_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-regular-fit-uni-avec-poche/PH3468-00.html?dwvar_PH3468-00_color=476",
-      "dominantColor": {
-          "red": 123,
-          "green": 3,
-          "blue": 26,
-          "alpha": null
-      }
-  },
-  {
-      "id": "PH4012-00-001",
-      "title": "Polo Lacoste slim fit en petit piqué uni",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH4012_001_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-slim-fit-en-petit-pique-uni/PH4012-00.html?dwvar_PH4012-00_color=001",
-      "dominantColor": {
-          "red": 245,
-          "green": 245,
-          "blue": 245,
-          "alpha": null
-      }
-  },
-  {
-      "id": "PH4012-00-031",
-      "title": "Polo Lacoste slim fit en petit piqué uni",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH4012_031_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-slim-fit-en-petit-pique-uni/PH4012-00.html?dwvar_PH4012-00_color=031",
-      "dominantColor": {
-          "red": 24,
-          "green": 22,
-          "blue": 22,
-          "alpha": null
-      }
-  },
-  {
-      "id": "PH4012-00-166",
-      "title": "Polo Lacoste slim fit en petit piqué uni",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH4012_166_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-slim-fit-en-petit-pique-uni/PH4012-00.html?dwvar_PH4012-00_color=166",
-      "dominantColor": {
-          "red": 30,
-          "green": 32,
-          "blue": 42,
-          "alpha": null
-      }
-  },
-  {
-      "id": "PH4012-00-240",
-      "title": "Polo Lacoste slim fit en petit piqué uni",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH4012_240_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-slim-fit-en-petit-pique-uni/PH4012-00.html?dwvar_PH4012-00_color=240",
-      "dominantColor": {
-          "red": 210,
-          "green": 8,
-          "blue": 42,
-          "alpha": null
-      }
-  },
-  {
-      "id": "PH4012-00-476",
-      "title": "Polo Lacoste slim fit en petit piqué uni",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH4012_476_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-slim-fit-en-petit-pique-uni/PH4012-00.html?dwvar_PH4012-00_color=476",
-      "dominantColor": {
-          "red": 123,
-          "green": 4,
-          "blue": 29,
-          "alpha": null
-      }
-  },
-  {
-      "id": "PH4012-00-CCA",
-      "title": "Polo Lacoste slim fit en petit piqué uni",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH4012_CCA_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-slim-fit-en-petit-pique-uni/PH4012-00.html?dwvar_PH4012-00_color=CCA",
-      "dominantColor": {
-          "red": 201,
-          "green": 201,
-          "blue": 208,
-          "alpha": null
-      }
-  },
-  {
-      "id": "PH4012-00-T01",
-      "title": "Polo Lacoste slim fit en petit piqué uni",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH4012_T01_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-slim-fit-en-petit-pique-uni/PH4012-00.html?dwvar_PH4012-00_color=T01",
-      "dominantColor": {
-          "red": 212,
-          "green": 232,
-          "blue": 249,
-          "alpha": null
-      }
-  },
-  {
-      "id": "PH4014-00-001",
-      "title": "Polo Lacoste slim fit en petit piqué stretch uni",
-      "gender_id": "MAN",
-      "composition": "6% Elasthanne",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH4014_001_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-slim-fit-en-petit-pique-stretch-uni/PH4014-00.html?dwvar_PH4014-00_color=001",
-      "dominantColor": {
-          "red": 244,
-          "green": 244,
-          "blue": 245,
-          "alpha": null
-      }
-  },
-  {
-      "id": "PH4014-00-031",
-      "title": "Polo Lacoste slim fit en petit piqué stretch uni",
-      "gender_id": "MAN",
-      "composition": "6% Elasthanne",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH4014_031_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-slim-fit-en-petit-pique-stretch-uni/PH4014-00.html?dwvar_PH4014-00_color=031",
-      "dominantColor": {
-          "red": 24,
-          "green": 22,
-          "blue": 22,
-          "alpha": null
-      }
-  },
-  {
-      "id": "PH4014-00-166",
-      "title": "Polo Lacoste slim fit en petit piqué stretch uni",
-      "gender_id": "MAN",
-      "composition": "6% Elasthanne",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH4014_166_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-slim-fit-en-petit-pique-stretch-uni/PH4014-00.html?dwvar_PH4014-00_color=166",
-      "dominantColor": {
-          "red": 24,
-          "green": 25,
-          "blue": 56,
-          "alpha": null
-      }
-  },
-  {
-      "id": "PH4014-00-240",
-      "title": "Polo Lacoste slim fit en petit piqué stretch uni",
-      "gender_id": "MAN",
-      "composition": "6% Elasthanne",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH4014_240_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-slim-fit-en-petit-pique-stretch-uni/PH4014-00.html?dwvar_PH4014-00_color=240",
-      "dominantColor": {
-          "red": 161,
-          "green": 6,
-          "blue": 34,
-          "alpha": null
-      }
-  },
-  {
-      "id": "PH4014-00-476",
-      "title": "Polo Lacoste slim fit en petit piqué stretch uni",
-      "gender_id": "MAN",
-      "composition": "6% Elasthanne",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH4014_476_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-slim-fit-en-petit-pique-stretch-uni/PH4014-00.html?dwvar_PH4014-00_color=476",
-      "dominantColor": {
-          "red": 130,
-          "green": 1,
-          "blue": 24,
-          "alpha": null
-      }
-  },
-  {
-      "id": "PH4014-00-CCA",
-      "title": "Polo Lacoste slim fit en petit piqué stretch uni",
-      "gender_id": "MAN",
-      "composition": "6% Elasthanne",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH4014_CCA_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-slim-fit-en-petit-pique-stretch-uni/PH4014-00.html?dwvar_PH4014-00_color=CCA",
-      "dominantColor": {
-          "red": 196,
-          "green": 195,
-          "blue": 201,
-          "alpha": null
-      }
-  },
-  {
-      "id": "PH5692-00-3WH",
-      "title": "Polo color block Lacoste LIVE Edition AGI & SAM",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH5692_3WH_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/collection-agi-and-sam/polo-color-block-lacoste-live-edition-agi-sam/PH5692-00.html?dwvar_PH5692-00_color=3WH",
-      "dominantColor": {
-          "red": 225,
-          "green": 56,
-          "blue": 55,
-          "alpha": null
-      }
-  },
-  {
-      "id": "PH6812-00-QRN",
-      "title": "Polo Lacoste Grande Taille regular fit à rayures ",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH6812_QRN_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/grandes-tailles/polo-lacoste-grande-taille-regular-fit-a-rayures-/PH6812-00.html?dwvar_PH6812-00_color=QRN",
-      "dominantColor": {
-          "red": 36,
-          "green": 49,
-          "blue": 104,
-          "alpha": null
-      }
-  },
-  {
-      "id": "L1212-00-CNQ",
-      "title": "Polo Lacoste L.12.12 uni",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1212_CNQ_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-uni/L1212-00.html?dwvar_L1212-00_color=CNQ",
-      "dominantColor": {
-          "red": 9,
-          "green": 98,
-          "blue": 48,
-          "alpha": null
-      }
-  },
-  {
-      "id": "L1212-00-JDY",
-      "title": "Polo Lacoste L.12.12 uni",
-      "gender_id": "MAN",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1212_JDY_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-uni/L1212-00.html?dwvar_L1212-00_color=JDY",
-      "dominantColor": {
-          "red": 193,
-          "green": 52,
-          "blue": 67,
-          "alpha": null
-      }
-  },
-  {
-      "id": "PJ2801-00-LD3",
-      "title": "Polo Enfant Lacoste en mini piqué chiné",
-      "gender_id": "GIR",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PJ2801_LD3_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/enfant/fille/polos/polo-enfant-lacoste-en-mini-pique-chine/PJ2801-00.html?dwvar_PJ2801-00_color=LD3",
-      "dominantColor": {
-          "red": 244,
-          "green": 244,
-          "blue": 246,
-          "alpha": null
-      }
-  },
-  {
-      "id": "PJ2801-00-T91",
-      "title": "Polo Enfant Lacoste en mini piqué chiné",
-      "gender_id": "GIR",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PJ2801_T91_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/enfant/fille/polos/polo-enfant-lacoste-en-mini-pique-chine/PJ2801-00.html?dwvar_PJ2801-00_color=T91",
-      "dominantColor": {
-          "red": 245,
-          "green": 219,
-          "blue": 211,
-          "alpha": null
-      }
-  },
-  {
-      "id": "PJ2909-00-001",
-      "title": "Polo Lacoste Garçon en petit piqué uni",
-      "gender_id": "BOY",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PJ2909_001_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/enfant/garcon/polos/polo-lacoste-garcon-en-petit-pique-uni/PJ2909-00.html?dwvar_PJ2909-00_color=001",
-      "dominantColor": {
-          "red": 241,
-          "green": 243,
-          "blue": 248,
-          "alpha": null
-      }
-  },
-  {
-      "id": "PJ2909-00-031",
-      "title": "Polo Lacoste Garçon en petit piqué uni",
-      "gender_id": "BOY",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PJ2909_031_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/enfant/garcon/polos/polo-lacoste-garcon-en-petit-pique-uni/PJ2909-00.html?dwvar_PJ2909-00_color=031",
-      "dominantColor": {
-          "red": 16,
-          "green": 14,
-          "blue": 14,
-          "alpha": null
-      }
-  },
-  {
-      "id": "PJ2909-00-CNQ",
-      "title": "Polo Lacoste Garçon en petit piqué uni",
-      "gender_id": "BOY",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PJ2909_CNQ_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/enfant/garcon/polos/polo-lacoste-garcon-en-petit-pique-uni/PJ2909-00.html?dwvar_PJ2909-00_color=CNQ",
-      "dominantColor": {
-          "red": 4,
-          "green": 83,
-          "blue": 42,
-          "alpha": null
-      }
-  },
-  {
-      "id": "PJ2909-00-166",
-      "title": "Polo Lacoste Garçon en petit piqué uni",
-      "gender_id": "BOY",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PJ2909_166_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/enfant/garcon/polos/polo-lacoste-garcon-en-petit-pique-uni/PJ2909-00.html?dwvar_PJ2909-00_color=166",
-      "dominantColor": {
-          "red": 23,
-          "green": 23,
-          "blue": 43,
-          "alpha": null
-      }
-  },
-  {
-      "id": "PJ2909-00-240",
-      "title": "Polo Lacoste Garçon en petit piqué uni",
-      "gender_id": "BOY",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PJ2909_240_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/enfant/garcon/polos/polo-lacoste-garcon-en-petit-pique-uni/PJ2909-00.html?dwvar_PJ2909-00_color=240",
-      "dominantColor": {
-          "red": 196,
-          "green": 1,
-          "blue": 6,
-          "alpha": null
-      }
-  },
-  {
-      "id": "PJ2909-00-T01",
-      "title": "Polo Lacoste Garçon en petit piqué uni",
-      "gender_id": "BOY",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PJ2909_T01_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/enfant/garcon/polos/polo-lacoste-garcon-en-petit-pique-uni/PJ2909-00.html?dwvar_PJ2909-00_color=T01",
-      "dominantColor": {
-          "red": 205,
-          "green": 228,
-          "blue": 243,
-          "alpha": null
-      }
-  },
-  {
-      "id": "PJ2909-00-T03",
-      "title": "Polo Lacoste Garçon en petit piqué uni",
-      "gender_id": "BOY",
-      "composition": "100% Coton",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PJ2909_T03_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/enfant/garcon/polos/polo-lacoste-garcon-en-petit-pique-uni/PJ2909-00.html?dwvar_PJ2909-00_color=T03",
-      "dominantColor": {
-          "red": 250,
-          "green": 231,
-          "blue": 228,
-          "alpha": null
-      }
-  },
-  {
-      "id": "DH8003-00-U70",
-      "title": "Polo Lacoste Collection pour Novak Djokovic - Édition Terre Battue Exclusive",
-      "gender_id": "MAN",
-      "composition": "100% Polyester",
-      "sleeve": "Manches courtes",
-      "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/DH8003_U70_24.jpg?sw=458&sh=443",
-      "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-collection-pour-novak-djokovic---edition-terre-battue-exclusive/DH8003-00.html?dwvar_DH8003-00_color=U70",
-      "dominantColor": {
-          "red": 149,
-          "green": 157,
-          "blue": 190,
-          "alpha": null
-      }
-  }
+    {
+        "id": "L1212-00-001",
+        "title": "Polo Lacoste L.12.12 uni",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1212_001_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-uni/L1212-00.html?dwvar_L1212-00_color=001",
+        "dominantColor": {
+            "red": 233,
+            "green": 233,
+            "blue": 233,
+            "alpha": null
+        }
+    },
+    {
+        "id": "L1212-00-031",
+        "title": "Polo Lacoste L.12.12 uni",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1212_031_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-uni/L1212-00.html?dwvar_L1212-00_color=031",
+        "dominantColor": {
+            "red": 27,
+            "green": 27,
+            "blue": 29,
+            "alpha": null
+        }
+    },
+    {
+        "id": "L1212-00-132",
+        "title": "Polo Lacoste L.12.12 uni",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1212_132_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-uni/L1212-00.html?dwvar_L1212-00_color=132",
+        "dominantColor": {
+            "red": 31,
+            "green": 62,
+            "blue": 47,
+            "alpha": null
+        }
+    },
+    {
+        "id": "L1212-00-166",
+        "title": "Polo Lacoste L.12.12 uni",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1212_166_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-uni/L1212-00.html?dwvar_L1212-00_color=166",
+        "dominantColor": {
+            "red": 21,
+            "green": 24,
+            "blue": 45,
+            "alpha": null
+        }
+    },
+    {
+        "id": "L1212-00-240",
+        "title": "Polo Lacoste L.12.12 uni",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1212_240_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-uni/L1212-00.html?dwvar_L1212-00_color=240",
+        "dominantColor": {
+            "red": 196,
+            "green": 2,
+            "blue": 29,
+            "alpha": null
+        }
+    },
+    {
+        "id": "L1212-00-476",
+        "title": "Polo Lacoste L.12.12 uni",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1212_476_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-uni/L1212-00.html?dwvar_L1212-00_color=476",
+        "dominantColor": {
+            "red": 122,
+            "green": 1,
+            "blue": 19,
+            "alpha": null
+        }
+    },
+    {
+        "id": "L1212-00-KC8",
+        "title": "Polo Lacoste L.12.12 uni",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1212_KC8_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-uni/L1212-00.html?dwvar_L1212-00_color=KC8",
+        "dominantColor": {
+            "red": 151,
+            "green": 149,
+            "blue": 150,
+            "alpha": null
+        }
+    },
+    {
+        "id": "L1212-00-T01",
+        "title": "Polo Lacoste L.12.12 uni",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1212_T01_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-uni/L1212-00.html?dwvar_L1212-00_color=T01",
+        "dominantColor": {
+            "red": 209,
+            "green": 225,
+            "blue": 236,
+            "alpha": null
+        }
+    },
+    {
+        "id": "L1212-00-T03",
+        "title": "Polo Lacoste L.12.12 uni",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1212_T03_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-uni/L1212-00.html?dwvar_L1212-00_color=T03",
+        "dominantColor": {
+            "red": 253,
+            "green": 239,
+            "blue": 237,
+            "alpha": null
+        }
+    },
+    {
+        "id": "L1212-EC-000",
+        "title": "Polo personnalisé L.12.12 Lacoste",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1212_000_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/bestsellers/polo-personnalise-l.12.12-lacoste/L1212-EC.html?dwvar_L1212-EC_color=000",
+        "dominantColor": {
+            "red": 233,
+            "green": 233,
+            "blue": 233,
+            "alpha": null
+        }
+    },
+    {
+        "id": "L1230-00-001",
+        "title": "Polo regular fit Tennis Lacoste SPORT en maille ultra-légère ",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1230_001_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/sport/homme/polos/polo-regular-fit-tennis-lacoste-sport-en-maille-ultra-legere-/L1230-00.html?dwvar_L1230-00_color=001",
+        "dominantColor": {
+            "red": 229,
+            "green": 230,
+            "blue": 232,
+            "alpha": null
+        }
+    },
+    {
+        "id": "L1230-00-031",
+        "title": "Polo regular fit Tennis Lacoste SPORT en maille ultra-légère ",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1230_031_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/sport/homme/polos/polo-regular-fit-tennis-lacoste-sport-en-maille-ultra-legere-/L1230-00.html?dwvar_L1230-00_color=031",
+        "dominantColor": {
+            "red": 25,
+            "green": 24,
+            "blue": 24,
+            "alpha": null
+        }
+    },
+    {
+        "id": "L1230-00-166",
+        "title": "Polo regular fit Tennis Lacoste SPORT en maille ultra-légère ",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1230_166_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/sport/homme/polos/polo-regular-fit-tennis-lacoste-sport-en-maille-ultra-legere-/L1230-00.html?dwvar_L1230-00_color=166",
+        "dominantColor": {
+            "red": 38,
+            "green": 39,
+            "blue": 56,
+            "alpha": null
+        }
+    },
+    {
+        "id": "L1264-00-CCA",
+        "title": "Polo Lacoste L.12.12 chiné",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1264_CCA_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-chine/L1264-00.html?dwvar_L1264-00_color=CCA",
+        "dominantColor": {
+            "red": 199,
+            "green": 202,
+            "blue": 206,
+            "alpha": null
+        }
+    },
+    {
+        "id": "L1312-00-001",
+        "title": "Polo Lacoste L.12.12 à manches longues",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches longues",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1312_001_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-a-manches-longues/L1312-00.html?dwvar_L1312-00_color=001",
+        "dominantColor": {
+            "red": 231,
+            "green": 230,
+            "blue": 230,
+            "alpha": null
+        }
+    },
+    {
+        "id": "L1312-00-031",
+        "title": "Polo Lacoste L.12.12 à manches longues",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches longues",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1312_031_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-a-manches-longues/L1312-00.html?dwvar_L1312-00_color=031",
+        "dominantColor": {
+            "red": 22,
+            "green": 21,
+            "blue": 19,
+            "alpha": null
+        }
+    },
+    {
+        "id": "L1312-00-166",
+        "title": "Polo Lacoste L.12.12 à manches longues",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches longues",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1312_166_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-a-manches-longues/L1312-00.html?dwvar_L1312-00_color=166",
+        "dominantColor": {
+            "red": 28,
+            "green": 29,
+            "blue": 50,
+            "alpha": null
+        }
+    },
+    {
+        "id": "L1312-00-240",
+        "title": "Polo Lacoste L.12.12 à manches longues",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches longues",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1312_240_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-a-manches-longues/L1312-00.html?dwvar_L1312-00_color=240",
+        "dominantColor": {
+            "red": 183,
+            "green": 2,
+            "blue": 30,
+            "alpha": null
+        }
+    },
+    {
+        "id": "L1312-00-476",
+        "title": "Polo Lacoste L.12.12 à manches longues",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches longues",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1312_476_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-a-manches-longues/L1312-00.html?dwvar_L1312-00_color=476",
+        "dominantColor": {
+            "red": 120,
+            "green": 1,
+            "blue": 17,
+            "alpha": null
+        }
+    },
+    {
+        "id": "PH3468-00-001",
+        "title": "Polo Lacoste regular fit uni avec poche",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH3468_001_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-regular-fit-uni-avec-poche/PH3468-00.html?dwvar_PH3468-00_color=001",
+        "dominantColor": {
+            "red": 243,
+            "green": 243,
+            "blue": 243,
+            "alpha": null
+        }
+    },
+    {
+        "id": "PH3468-00-031",
+        "title": "Polo Lacoste regular fit uni avec poche",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH3468_031_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-regular-fit-uni-avec-poche/PH3468-00.html?dwvar_PH3468-00_color=031",
+        "dominantColor": {
+            "red": 42,
+            "green": 40,
+            "blue": 36,
+            "alpha": null
+        }
+    },
+    {
+        "id": "PH3468-00-166",
+        "title": "Polo Lacoste regular fit uni avec poche",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH3468_166_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-regular-fit-uni-avec-poche/PH3468-00.html?dwvar_PH3468-00_color=166",
+        "dominantColor": {
+            "red": 46,
+            "green": 43,
+            "blue": 56,
+            "alpha": null
+        }
+    },
+    {
+        "id": "PH3468-00-476",
+        "title": "Polo Lacoste regular fit uni avec poche",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH3468_476_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-regular-fit-uni-avec-poche/PH3468-00.html?dwvar_PH3468-00_color=476",
+        "dominantColor": {
+            "red": 123,
+            "green": 3,
+            "blue": 26,
+            "alpha": null
+        }
+    },
+    {
+        "id": "PH4012-00-001",
+        "title": "Polo Lacoste slim fit en petit piqué uni",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH4012_001_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-slim-fit-en-petit-pique-uni/PH4012-00.html?dwvar_PH4012-00_color=001",
+        "dominantColor": {
+            "red": 245,
+            "green": 245,
+            "blue": 245,
+            "alpha": null
+        }
+    },
+    {
+        "id": "PH4012-00-031",
+        "title": "Polo Lacoste slim fit en petit piqué uni",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH4012_031_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-slim-fit-en-petit-pique-uni/PH4012-00.html?dwvar_PH4012-00_color=031",
+        "dominantColor": {
+            "red": 24,
+            "green": 22,
+            "blue": 22,
+            "alpha": null
+        }
+    },
+    {
+        "id": "PH4012-00-166",
+        "title": "Polo Lacoste slim fit en petit piqué uni",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH4012_166_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-slim-fit-en-petit-pique-uni/PH4012-00.html?dwvar_PH4012-00_color=166",
+        "dominantColor": {
+            "red": 30,
+            "green": 32,
+            "blue": 42,
+            "alpha": null
+        }
+    },
+    {
+        "id": "PH4012-00-240",
+        "title": "Polo Lacoste slim fit en petit piqué uni",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH4012_240_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-slim-fit-en-petit-pique-uni/PH4012-00.html?dwvar_PH4012-00_color=240",
+        "dominantColor": {
+            "red": 210,
+            "green": 8,
+            "blue": 42,
+            "alpha": null
+        }
+    },
+    {
+        "id": "PH4012-00-476",
+        "title": "Polo Lacoste slim fit en petit piqué uni",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH4012_476_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-slim-fit-en-petit-pique-uni/PH4012-00.html?dwvar_PH4012-00_color=476",
+        "dominantColor": {
+            "red": 123,
+            "green": 4,
+            "blue": 29,
+            "alpha": null
+        }
+    },
+    {
+        "id": "PH4012-00-CCA",
+        "title": "Polo Lacoste slim fit en petit piqué uni",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH4012_CCA_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-slim-fit-en-petit-pique-uni/PH4012-00.html?dwvar_PH4012-00_color=CCA",
+        "dominantColor": {
+            "red": 201,
+            "green": 201,
+            "blue": 208,
+            "alpha": null
+        }
+    },
+    {
+        "id": "PH4012-00-T01",
+        "title": "Polo Lacoste slim fit en petit piqué uni",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH4012_T01_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-slim-fit-en-petit-pique-uni/PH4012-00.html?dwvar_PH4012-00_color=T01",
+        "dominantColor": {
+            "red": 212,
+            "green": 232,
+            "blue": 249,
+            "alpha": null
+        }
+    },
+    {
+        "id": "PH4014-00-001",
+        "title": "Polo Lacoste slim fit en petit piqué stretch uni",
+        "gender_id": "MAN",
+        "composition": "6% Elasthanne",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH4014_001_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-slim-fit-en-petit-pique-stretch-uni/PH4014-00.html?dwvar_PH4014-00_color=001",
+        "dominantColor": {
+            "red": 244,
+            "green": 244,
+            "blue": 245,
+            "alpha": null
+        }
+    },
+    {
+        "id": "PH4014-00-031",
+        "title": "Polo Lacoste slim fit en petit piqué stretch uni",
+        "gender_id": "MAN",
+        "composition": "6% Elasthanne",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH4014_031_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-slim-fit-en-petit-pique-stretch-uni/PH4014-00.html?dwvar_PH4014-00_color=031",
+        "dominantColor": {
+            "red": 24,
+            "green": 22,
+            "blue": 22,
+            "alpha": null
+        }
+    },
+    {
+        "id": "PH4014-00-166",
+        "title": "Polo Lacoste slim fit en petit piqué stretch uni",
+        "gender_id": "MAN",
+        "composition": "6% Elasthanne",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH4014_166_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-slim-fit-en-petit-pique-stretch-uni/PH4014-00.html?dwvar_PH4014-00_color=166",
+        "dominantColor": {
+            "red": 24,
+            "green": 25,
+            "blue": 56,
+            "alpha": null
+        }
+    },
+    {
+        "id": "PH4014-00-240",
+        "title": "Polo Lacoste slim fit en petit piqué stretch uni",
+        "gender_id": "MAN",
+        "composition": "6% Elasthanne",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH4014_240_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-slim-fit-en-petit-pique-stretch-uni/PH4014-00.html?dwvar_PH4014-00_color=240",
+        "dominantColor": {
+            "red": 161,
+            "green": 6,
+            "blue": 34,
+            "alpha": null
+        }
+    },
+    {
+        "id": "PH4014-00-476",
+        "title": "Polo Lacoste slim fit en petit piqué stretch uni",
+        "gender_id": "MAN",
+        "composition": "6% Elasthanne",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH4014_476_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-slim-fit-en-petit-pique-stretch-uni/PH4014-00.html?dwvar_PH4014-00_color=476",
+        "dominantColor": {
+            "red": 130,
+            "green": 1,
+            "blue": 24,
+            "alpha": null
+        }
+    },
+    {
+        "id": "PH4014-00-CCA",
+        "title": "Polo Lacoste slim fit en petit piqué stretch uni",
+        "gender_id": "MAN",
+        "composition": "6% Elasthanne",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH4014_CCA_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-slim-fit-en-petit-pique-stretch-uni/PH4014-00.html?dwvar_PH4014-00_color=CCA",
+        "dominantColor": {
+            "red": 196,
+            "green": 195,
+            "blue": 201,
+            "alpha": null
+        }
+    },
+    {
+        "id": "PH5692-00-3WH",
+        "title": "Polo color block Lacoste LIVE Edition AGI & SAM",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH5692_3WH_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/collection-agi-and-sam/polo-color-block-lacoste-live-edition-agi-sam/PH5692-00.html?dwvar_PH5692-00_color=3WH",
+        "dominantColor": {
+            "red": 225,
+            "green": 56,
+            "blue": 55,
+            "alpha": null
+        }
+    },
+    {
+        "id": "PH6812-00-QRN",
+        "title": "Polo Lacoste Grande Taille regular fit à rayures ",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PH6812_QRN_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/grandes-tailles/polo-lacoste-grande-taille-regular-fit-a-rayures-/PH6812-00.html?dwvar_PH6812-00_color=QRN",
+        "dominantColor": {
+            "red": 36,
+            "green": 49,
+            "blue": 104,
+            "alpha": null
+        }
+    },
+    {
+        "id": "L1212-00-CNQ",
+        "title": "Polo Lacoste L.12.12 uni",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1212_CNQ_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-uni/L1212-00.html?dwvar_L1212-00_color=CNQ",
+        "dominantColor": {
+            "red": 9,
+            "green": 98,
+            "blue": 48,
+            "alpha": null
+        }
+    },
+    {
+        "id": "L1212-00-JDY",
+        "title": "Polo Lacoste L.12.12 uni",
+        "gender_id": "MAN",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/L1212_JDY_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-l.12.12-uni/L1212-00.html?dwvar_L1212-00_color=JDY",
+        "dominantColor": {
+            "red": 193,
+            "green": 52,
+            "blue": 67,
+            "alpha": null
+        }
+    },
+    {
+        "id": "PJ2801-00-LD3",
+        "title": "Polo Enfant Lacoste en mini piqué chiné",
+        "gender_id": "GIR",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PJ2801_LD3_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/enfant/fille/polos/polo-enfant-lacoste-en-mini-pique-chine/PJ2801-00.html?dwvar_PJ2801-00_color=LD3",
+        "dominantColor": {
+            "red": 244,
+            "green": 244,
+            "blue": 246,
+            "alpha": null
+        }
+    },
+    {
+        "id": "PJ2801-00-T91",
+        "title": "Polo Enfant Lacoste en mini piqué chiné",
+        "gender_id": "GIR",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PJ2801_T91_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/enfant/fille/polos/polo-enfant-lacoste-en-mini-pique-chine/PJ2801-00.html?dwvar_PJ2801-00_color=T91",
+        "dominantColor": {
+            "red": 245,
+            "green": 219,
+            "blue": 211,
+            "alpha": null
+        }
+    },
+    {
+        "id": "PJ2909-00-001",
+        "title": "Polo Lacoste Garçon en petit piqué uni",
+        "gender_id": "BOY",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PJ2909_001_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/enfant/garcon/polos/polo-lacoste-garcon-en-petit-pique-uni/PJ2909-00.html?dwvar_PJ2909-00_color=001",
+        "dominantColor": {
+            "red": 241,
+            "green": 243,
+            "blue": 248,
+            "alpha": null
+        }
+    },
+    {
+        "id": "PJ2909-00-031",
+        "title": "Polo Lacoste Garçon en petit piqué uni",
+        "gender_id": "BOY",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PJ2909_031_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/enfant/garcon/polos/polo-lacoste-garcon-en-petit-pique-uni/PJ2909-00.html?dwvar_PJ2909-00_color=031",
+        "dominantColor": {
+            "red": 16,
+            "green": 14,
+            "blue": 14,
+            "alpha": null
+        }
+    },
+    {
+        "id": "PJ2909-00-CNQ",
+        "title": "Polo Lacoste Garçon en petit piqué uni",
+        "gender_id": "BOY",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PJ2909_CNQ_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/enfant/garcon/polos/polo-lacoste-garcon-en-petit-pique-uni/PJ2909-00.html?dwvar_PJ2909-00_color=CNQ",
+        "dominantColor": {
+            "red": 4,
+            "green": 83,
+            "blue": 42,
+            "alpha": null
+        }
+    },
+    {
+        "id": "PJ2909-00-166",
+        "title": "Polo Lacoste Garçon en petit piqué uni",
+        "gender_id": "BOY",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PJ2909_166_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/enfant/garcon/polos/polo-lacoste-garcon-en-petit-pique-uni/PJ2909-00.html?dwvar_PJ2909-00_color=166",
+        "dominantColor": {
+            "red": 23,
+            "green": 23,
+            "blue": 43,
+            "alpha": null
+        }
+    },
+    {
+        "id": "PJ2909-00-240",
+        "title": "Polo Lacoste Garçon en petit piqué uni",
+        "gender_id": "BOY",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PJ2909_240_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/enfant/garcon/polos/polo-lacoste-garcon-en-petit-pique-uni/PJ2909-00.html?dwvar_PJ2909-00_color=240",
+        "dominantColor": {
+            "red": 196,
+            "green": 1,
+            "blue": 6,
+            "alpha": null
+        }
+    },
+    {
+        "id": "PJ2909-00-T01",
+        "title": "Polo Lacoste Garçon en petit piqué uni",
+        "gender_id": "BOY",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PJ2909_T01_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/enfant/garcon/polos/polo-lacoste-garcon-en-petit-pique-uni/PJ2909-00.html?dwvar_PJ2909-00_color=T01",
+        "dominantColor": {
+            "red": 205,
+            "green": 228,
+            "blue": 243,
+            "alpha": null
+        }
+    },
+    {
+        "id": "PJ2909-00-T03",
+        "title": "Polo Lacoste Garçon en petit piqué uni",
+        "gender_id": "BOY",
+        "composition": "100% Coton",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/PJ2909_T03_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/enfant/garcon/polos/polo-lacoste-garcon-en-petit-pique-uni/PJ2909-00.html?dwvar_PJ2909-00_color=T03",
+        "dominantColor": {
+            "red": 250,
+            "green": 231,
+            "blue": 228,
+            "alpha": null
+        }
+    },
+    {
+        "id": "DH8003-00-U70",
+        "title": "Polo Lacoste Collection pour Novak Djokovic - Édition Terre Battue Exclusive",
+        "gender_id": "MAN",
+        "composition": "100% Polyester",
+        "sleeve": "Manches courtes",
+        "photo": "//image1.lacoste.com/dw/image/v2/AAQM_PRD/on/demandware.static/Sites-FR-Site/Sites-master/default/DH8003_U70_24.jpg?sw=458&sh=443",
+        "url": "https://www.lacoste.com/fr/lacoste/homme/vetements/polos/polo-lacoste-collection-pour-novak-djokovic---edition-terre-battue-exclusive/DH8003-00.html?dwvar_DH8003-00_color=U70",
+        "dominantColor": {
+            "red": 149,
+            "green": 157,
+            "blue": 190,
+            "alpha": null
+        }
+    }
 ]
