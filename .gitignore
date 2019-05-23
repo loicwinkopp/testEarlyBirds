@@ -25,7 +25,6 @@ coverage
 benchmarks/graphs
 
 # dotenv environment variables file
-.env
 .env.test
 
 # Runtime data
