@@ -7,7 +7,7 @@ Créé à l'aide du boilerplate : https://github.com/ZzoNe322/express-boilerplat
 
 ## Initialisation de l'API
 - Commande : `npm i`
-- Creer un fichier `api_key.json` contenant l'API KEY fourni par Google.
+- Créer un fichier `api_key.json` contenant l'API KEY fourni par Google.
 - Commande : `npm run start`
 
 ## Endpoints
