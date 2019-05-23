@@ -1,24 +1,19 @@
 # testEarlyBirds
 
-Stack utilise : Node.js/Express.js
+## Technologies utilisées 
+Node.js ; Express.js
 
-Initialisation de l'api :
+Créé à l'aide du boilerplate : https://github.com/ZzoNe322/express-boilerplate-js
 
-Commande : npm i
+## Initialisation de l'API
+- Commande : `npm i`
+- Creer un fichier `api_key.json` contenant l'API KEY fourni par Google.
+- Commande : `npm run start`
 
-Creer un fichier .env contenant :
-  HTTP_PORT = 3000
-  GOOGLE_APPLICATION_CREDENTIALS = api_key.json
-  
-Creer un fichier api_key.json contenant l'API KEY fourni par Google.
+## Endpoints
 
-Commande : npm run start
+`POST /products` avec le paramètre "csv" contenant l'URL du fichier CSV, exemple : `localhost:3000/products?csv=products_eb_test_technique.csv` : Création et renvoie de la liste des produits
 
+`GET /dominantdolors` : Ajoute les couleurs dominantes à la liste de produits et renvoie cette liste
 
-Endpoints :
-
-POST /products avec le parametre "csv" contenant l'URL du fichier CSV, exemple : localhost:3000/products?csv=products_eb_test_technique.csv : Creation et renvoie de la liste des produit liste de produits
-
-GET /dominantdolors : Ajoute les couleurs dominantes a la liste de produits et renvoie cette liste
-
-Creer a l'aide de la boilerplate : https://github.com/ZzoNe322/express-boilerplate-js
+`GET /recommendations` : Renvoie les 5 produits dont la couleur dominante est la plus proche de celle du produit dont l'ID est passé en paramètre
